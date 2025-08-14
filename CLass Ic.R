@@ -111,6 +111,8 @@ for (i in 1:ncol(clean_data)) {
 }
 
 
+# Practice Exercises 
+
 ##Check Cholesterol level (using if) 
 
 cholesterol <- 230
@@ -188,6 +190,7 @@ str(metadata)
 
 cat("\nModified Metadata Copy Structure:\n")
 str(metadata_copy)
+
 
 
 
